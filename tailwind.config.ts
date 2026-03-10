@@ -15,6 +15,7 @@ export default {
     extend: {
       fontFamily: {
         display: ["Oswald", "sans-serif"],
+        brand: ["Ultra", "serif"],
         body: ["Open Sans", "sans-serif"],
       },
       colors: {
