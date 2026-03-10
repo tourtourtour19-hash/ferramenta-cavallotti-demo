@@ -16,6 +16,7 @@ export default {
       fontFamily: {
         display: ["Oswald", "sans-serif"],
         brand: ["Ultra", "serif"],
+        handwritten: ["Caveat", "cursive"],
         body: ["Open Sans", "sans-serif"],
       },
       colors: {
