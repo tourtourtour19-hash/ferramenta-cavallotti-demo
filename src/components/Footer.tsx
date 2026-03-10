@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row justify-between items-center gap-8">
           <div className="text-center md:text-left">
-            <h3 className="font-display text-2xl font-bold text-primary mb-1">FERRAMENTA CAVALLOTTI</h3>
+            <h3 className="font-brand text-2xl text-primary mb-1">FERRAMENTA CAVALLOTTI</h3>
             <p className="text-background/60 text-sm">Via Felice Cavallotti 89, Sesto San Giovanni (MI)</p>
           </div>
           {/* Social */}
