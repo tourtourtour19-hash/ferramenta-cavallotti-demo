@@ -15,7 +15,7 @@ const Navbar = () => {
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 bg-foreground/95 backdrop-blur-sm">
       <div className="container mx-auto flex items-center justify-between py-3 px-4">
-        <a href="#home" className="font-display text-2xl font-bold text-primary tracking-wide">
+        <a href="#home" className="font-brand text-xl md:text-2xl text-primary tracking-wide">
           FERRAMENTA CAVALLOTTI
         </a>
         {/* Desktop */}

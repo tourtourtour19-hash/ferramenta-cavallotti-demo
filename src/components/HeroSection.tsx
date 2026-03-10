@@ -13,7 +13,7 @@ const HeroSection = () => {
             Dal cuore di Sesto San Giovanni
           </span>
         </div>
-        <h1 className="font-display text-5xl md:text-7xl font-bold text-primary mb-4 leading-tight">
+        <h1 className="font-brand text-5xl md:text-7xl lg:text-8xl text-primary mb-4 leading-tight">
           FERRAMENTA<br />CAVALLOTTI
         </h1>
         <p className="text-lg md:text-xl text-muted mb-8 max-w-xl mx-auto">
