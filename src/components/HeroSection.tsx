@@ -13,7 +13,7 @@ const HeroSection = () => {
             Dal cuore di Sesto San Giovanni
           </span>
         </div>
-        <h1 className="font-brand text-5xl md:text-7xl lg:text-8xl text-secondary mb-4 leading-tight text-center mx-auto w-full">
+        <h1 className="font-brand text-5xl md:text-7xl text-secondary mb-4 leading-tight text-center mx-auto w-full my-0 lg:text-6xl">
           FERRAMENTA<br />CAVALLOTTI
         </h1>
         <p className="font-display text-lg md:text-xl text-primary mb-8 max-w-xl mx-auto tracking-wide uppercase">
@@ -22,20 +22,20 @@ const HeroSection = () => {
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a
             href="#contatti"
-            className="inline-block bg-primary text-primary-foreground font-display uppercase tracking-wider text-sm px-8 py-4 hover:bg-primary/90 transition-colors font-semibold"
-          >
+            className="inline-block bg-primary text-primary-foreground font-display uppercase tracking-wider text-sm px-8 py-4 hover:bg-primary/90 transition-colors font-semibold">
+            
             Vieni a Trovarci
           </a>
           <a
             href="tel:+390200000000"
-            className="inline-block border-2 border-secondary bg-secondary text-secondary-foreground font-display uppercase tracking-wider text-sm px-8 py-4 hover:bg-secondary/80 transition-colors font-semibold"
-          >
+            className="inline-block border-2 border-secondary bg-secondary text-secondary-foreground font-display uppercase tracking-wider text-sm px-8 py-4 hover:bg-secondary/80 transition-colors font-semibold">
+            
             Chiamaci Ora
           </a>
         </div>
       </div>
-    </section>
-  );
+    </section>);
+
 };
 
 export default HeroSection;
