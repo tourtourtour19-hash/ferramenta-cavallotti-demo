@@ -16,7 +16,7 @@ const HeroSection = () => {
         <h1 className="font-brand text-5xl md:text-7xl lg:text-8xl text-secondary mb-4 leading-tight">
           FERRAMENTA<br />CAVALLOTTI
         </h1>
-        <p className="font-handwritten text-2xl md:text-3xl text-primary mb-8 max-w-xl mx-auto">
+        <p className="font-display text-lg md:text-xl text-primary mb-8 max-w-xl mx-auto tracking-wide uppercase">
           Il tuo ferramenta di fiducia a Sesto San Giovanni. Utensili, materiali e consigli per ogni progetto.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
